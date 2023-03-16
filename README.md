@@ -1,4 +1,5 @@
 ### Hi there 👋
+Saya Muhamad Aldyn Ghifari, Seorang mahasiswa yang saat ini sedang berkuliah di Universitas Indraprasta PGRI dan mengambil jurusan Teknik Informatika
 
 <!--
 **AldynG/AldynG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
